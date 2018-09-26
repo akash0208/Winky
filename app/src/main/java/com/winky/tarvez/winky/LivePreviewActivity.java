@@ -236,13 +236,5 @@ public final class LivePreviewActivity extends AppCompatActivity implements OnRe
         Log.i(TAG, "Permission NOT granted: " + permission);
         return true;
     }
-
-    public void ankhmar() {
-
-        //webView.loadUrl("file:///android_asset/second.gif");
-    }
-
-    public void ankhmatmar() {
-       // webView.loadUrl("file:///android_asset/tenor.gif");
-    }
+    
 }
