@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1072863438348",
+    "firebase_url": "https://winky-7bf75.firebaseio.com",
+    "project_id": "winky-7bf75",
+    "storage_bucket": "winky-7bf75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072863438348:android:189ef52e71dda4bc",
+        "android_client_info": {
+          "package_name": "com.winky.tarvez.winky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072863438348-81fa6cdiihaj4rod67t17t0ioh51jg7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.winky.tarvez.winky",
+            "certificate_hash": "f0db6a7eb51c643031a8488076f5b9dd47a53fba"
+          }
+        },
+        {
+          "client_id": "1072863438348-mpqh0itnfaeg3gp7ll5r006ge8faec3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQh2tqiUzst7ujb8aWKxcHfzIyIjbG5Cs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072863438348-mpqh0itnfaeg3gp7ll5r006ge8faec3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
